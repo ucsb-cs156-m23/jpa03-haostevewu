@@ -1,5 +1,7 @@
 # STARTER-jpa03
 
+Repo: <https://github.com/ucsb-cs156-m23/jpa03-haostevewu>
+
 Running at: <https://jpa03-haostevewu.dokku-04.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
